@@ -76,7 +76,7 @@ module tb();
         // Test Case 3: AbdelrahmanSamha2136821
         //--------------------------------------------------------------------
         #100;
-        $display("\n[TEST 3] AbdelrahmanSamha2136821");
+        $display("\n[TEST 3] AbdelrahmanSamha");
         block_idx_a = 8'd4;
         block_idx_b = 8'd5;
         start = 1;
