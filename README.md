@@ -9,7 +9,7 @@ Ahmed S. Shatnawi" paper.
 ## Status
 
 The project in its first steps, and so far only the SHA256 hashing algorithm is attached. 
-note that the implemintation for the SHA256 only hashes a single block of 512bit data, 
+note that the implemintation for the SHA256 only hashes a single block of 512bit data currently, 
 also the data must already be padded and set in memory. 
 
 A memory IP of 256 words by 256 bits (64kb)is already set-up and initialized with some examples. 
