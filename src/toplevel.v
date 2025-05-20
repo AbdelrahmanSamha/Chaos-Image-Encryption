@@ -1,3 +1,9 @@
+// -----------------------------------------------------
+// Created by Abdelrahman Samha
+// The Hashemite University
+// Project: [Choas-Image-Encryption]
+// Date: [5/5/2025]
+// -----------------------------------------------------
 module toplevel(
     input clk,                // Clock
     input rst,                // Active-low reset
