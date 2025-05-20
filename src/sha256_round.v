@@ -1,3 +1,9 @@
+// -----------------------------------------------------
+// Created by Abdelrahman Samha
+// The Hashemite University
+// Project: [Choas-Image-Encryption]
+// Date: [5/5/2025]
+// -----------------------------------------------------
 module sha256_round (
       
 	 input  [31:0] a, b, c, d,e, f, g, h,
